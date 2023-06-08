@@ -16,7 +16,15 @@ I'm currently working @ [FLOWING](https://flowing.it) as Backend Developer, I'm 
 
 
 
+<p align="center">
+ <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=ZarakiKanzaki&show_icons=true&rank_icon=github&theme=aura_dark&hide_border=true"/>
+ <img align='center' width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZarakiKanzaki&theme=aura_dark&hide_border=true"/>
+</p>
+
 
 
 ### ***My Holopin Board***
 [![@404notfound's Holopin board](https://holopin.me/404notfound)](https://holopin.io/@404notfound)
+
+
+
