@@ -26,5 +26,4 @@ I'm currently working @ [FLOWING](https://flowing.it) as Backend Developer, I'm 
 ### ***My Holopin Board***
 [![@404notfound's Holopin board](https://holopin.me/404notfound)](https://holopin.io/@404notfound)
 
-
-
+![Snake animation](https://github.com/ZarakiKanzaki/ZarakiKanzaki/blob/output/github-contribution-grid-snake.svg)
