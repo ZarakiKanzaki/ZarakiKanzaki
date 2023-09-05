@@ -22,6 +22,9 @@ I'm currently working @ [FLOWING](https://flowing.it) as Backend Developer, I'm 
 </p>
 
 
+### **My Badges**
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### ***My Holopin Board***
 [![@404notfound's Holopin board](https://holopin.me/404notfound)](https://holopin.io/@404notfound)
