@@ -25,6 +25,7 @@ I'm currently working @ [FLOWING](https://flowing.it) as Backend Developer, I'm 
 ### **My Badges**
 
 <!--START_SECTION:badges-->
+[![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](http://www.credly.com/badges/48838a69-c7c5-462e-afef-f2c9b60de93e "AWS Certified Machine Learning – Specialty")
 <!--END_SECTION:badges-->
 
 ### ***My Holopin Board***
