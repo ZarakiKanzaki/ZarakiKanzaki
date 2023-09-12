@@ -20,7 +20,7 @@ I'm currently working @ [Claranet Italy](https://www.claranet.it/) as Backend De
  <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=ZarakiKanzaki&show_icons=true&rank_icon=github&theme=aura_dark&hide_border=true"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZarakiKanzaki&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZarakiKanzaki&theme=dark)
 
 
 ### **My Badges**
