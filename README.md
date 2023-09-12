@@ -7,7 +7,7 @@ When I got my first console, I remember being intrigued by the stories that coul
 
 In my free time, I'm a ravenous games consumer. I love card games and Pen&Paper RPGs, which I use to improve my storytelling skills and creativity. So whenever I have the opportunity, I attend Game Jams to have exciting experiences and get to know vibrant and creative people as passionate as me.
 
-I'm currently working @ [FLOWING](https://flowing.it) as Backend Developer, I'm also an Open Source enthusiast.
+I'm currently working @ [Claranet Italy](https://www.claranet.it/) as Backend Developer, I'm also an Open Source enthusiast.
 
 
 ### **How to reach me**
