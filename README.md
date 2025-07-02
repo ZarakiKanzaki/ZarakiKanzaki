@@ -26,8 +26,8 @@ I'm currently working @ [Claranet Italy](https://www.claranet.it/) as Backend De
 ### **My Badges**
 
 <!--START_SECTION:badges-->
-[![Copilot for Microsoft 365 Technical Champion](https://images.credly.com/size/110x110/images/13c2692d-46f7-4728-a5b4-dff3d58dc227/image.png)](http://www.credly.com/badges/5db88d28-0d06-4230-91d5-7ccaf8fb0f6a "Copilot for Microsoft 365 Technical Champion")
-[![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](http://www.credly.com/badges/48838a69-c7c5-462e-afef-f2c9b60de93e "AWS Certified Machine Learning – Specialty")
+<a href="https://www.credly.com/badges/5db88d28-0d06-4230-91d5-7ccaf8fb0f6a" title="Copilot for Microsoft 365 Technical Champion"><img src="https://images.credly.com/size/80x80/images/13c2692d-46f7-4728-a5b4-dff3d58dc227/image.png" alt="Copilot for Microsoft 365 Technical Champion" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/48838a69-c7c5-462e-afef-f2c9b60de93e" title="AWS Certified Machine Learning – Specialty"><img src="https://images.credly.com/size/80x80/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="AWS Certified Machine Learning – Specialty" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### ***My Holopin Board***
